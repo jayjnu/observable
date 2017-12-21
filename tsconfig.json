@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonJS",
+    "target": "es5",
+    "noImplicitAny": true,
+    "removeComments": true
+  },
+  "include": [
+    "index.ts",
+    "lib/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
